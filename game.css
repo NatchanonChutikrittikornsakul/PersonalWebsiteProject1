@@ -1,0 +1,43 @@
+body{
+    width: 650px;
+    height: 100vh;
+    margin: 0 auto;
+    background: black;
+    color: #fff;
+    font: 20px sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 10px 0px;
+    font-size: 1.5em;
+}
+
+a {
+    color: #faa202;
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+    float: left;
+}
+
+.menu {
+    padding: 0px 10px;
+}
+
+main {
+    margin-top: 50px;
+}
+
+canvas {
+    width: 500;
+    height: 500;
+    border: 2px solid #fff;
+}
+
+footer {
+    text-align: center;
+    background-color: #388bff;
+}
